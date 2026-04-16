@@ -33,10 +33,7 @@ Driver efficiency peaks between 6–11 working hours daily. Beyond 11 hours, mar
 Drivers operating across multiple platforms (Bolt, Uber, inDrive) consistently report higher cumulative earnings compared to single-platform drivers, indicating reduced idle time and improved ride access.
 4. Dominant Cost Pressure Points
 Fuel expenditure and platform commission fees remain the most significant constraints on profitability, collectively eroding a substantial portion of gross earnings.
-🛠️ Tools & Technologies
-Power BI – Dashboard design, KPI tracking, interactive visual analytics, DAX measures
-Python (Pandas) – Data cleaning, preprocessing, and transformation
-Microsoft Excel – Structured data collection and initial validation
+
 
 
 ## 🛠️ Tech Stack & Tools
