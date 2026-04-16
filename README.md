@@ -1,13 +1,18 @@
 # Abuja-E-Hailing-Market-Analysis
 📊 End-to-end analysis of the e-hailing market in Abuja, Nigeria. Featuring a Power BI dashboard exploring driver profitability, operational bottlenecks, and the "sweet spot" for daily earnings. Includes Python data cleaning and actionable business recommendations.
 
-##Dashboard Images 
-(dashboard_overview.png)
+# 📊 Dashboard Overview
+
+![Main Dashboard](dashboard_overview.png)
 
 ##📌 Project Overview
 The e-hailing ecosystem in Abuja operates within a highly competitive and cost-sensitive environment, where drivers continuously balance rising operational expenses against platform commission structures.
 This project analyzes survey responses from 72 e-hailing drivers to identify the primary drivers of profitability and operational efficiency.
 The objective is to generate data-driven insights that support drivers in optimizing earnings while providing stakeholders with a clearer understanding of the structural economic pressures within the gig economy.
+
+## 👥 Driver Demographics & Experience
+Understanding the workforce behind the apps.
+![Demographics](demographys_ananalysis.png)
 
 ##🎯 Objectives of the Analysis
 Identify key factors influencing driver profitability in Abuja’s e-hailing market
@@ -30,6 +35,24 @@ Power BI – Dashboard design, KPI tracking, interactive visual analytics, DAX m
 Python (Pandas) – Data cleaning, preprocessing, and transformation
 Microsoft Excel – Structured data collection and initial validation
 
+
+## 🛠️ Tech Stack & Tools
+
+* **Data Visualization:**
+    * **Power BI:** Developed interactive dashboards and utilized DAX for financial metrics (Profit Margin, Average Income).
+* **Data Processing:**
+    * **Python (Pandas):** Performed data cleaning, handled missing values, and transformed survey data.
+* **Data Storage:**
+    * **Microsoft Excel:** Initial data structuring and survey response storage.
+* **Project Management:**
+    * **GitHub:** Version control and project documentation.
+
+## 🏗️ Project Workflow
+1. **Data Cleaning:** Python was used to normalize income figures and group age ranges.
+2. **Analysis:** Identified the "Golden Window" (6–11 hours) for maximum driver ROI.
+3. **Visualization:** Built a star-schema model in Power BI to link demographics to profitability.
+
+
 ##📂 Repository Structure
 
 ├── Data/                   # Cleaned datasets used for analysis
@@ -49,3 +72,4 @@ Drivers should consider fuel-efficient route planning, bulk fueling strategies, 
 Drivers should actively track platform commission structures and prioritize platforms or time windows that yield higher net returns after deductions.
 5. Policy & Stakeholder Insight (for platforms/regulators)
 There is a clear need for more balanced commission structures and driver support mechanisms to ensure long-term sustainability within the gig economy.
+![Recommendations](recomedation_sumamary.png)
