@@ -1,6 +1,9 @@
 # Abuja-E-Hailing-Market-Analysis
 📊 End-to-end analysis of the e-hailing market in Abuja, Nigeria. Featuring a Power BI dashboard exploring driver profitability, operational bottlenecks, and the "sweet spot" for daily earnings. Includes Python data cleaning and actionable business recommendations.
 
+##Dashboard Images 
+(dashboard_overview.png)
+
 ##📌 Project Overview
 The e-hailing ecosystem in Abuja operates within a highly competitive and cost-sensitive environment, where drivers continuously balance rising operational expenses against platform commission structures.
 This project analyzes survey responses from 72 e-hailing drivers to identify the primary drivers of profitability and operational efficiency.
