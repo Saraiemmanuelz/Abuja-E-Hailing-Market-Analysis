@@ -72,4 +72,4 @@ Drivers should consider fuel-efficient route planning, bulk fueling strategies, 
 Drivers should actively track platform commission structures and prioritize platforms or time windows that yield higher net returns after deductions.
 5. Policy & Stakeholder Insight (for platforms/regulators)
 There is a clear need for more balanced commission structures and driver support mechanisms to ensure long-term sustainability within the gig economy.
-![Recommendations](recomedation_sumamary.png)
+![Recommendations](recommedation_sumamary.png)
