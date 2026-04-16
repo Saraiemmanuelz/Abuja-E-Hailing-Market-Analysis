@@ -17,11 +17,11 @@ Understanding the workforce behind the apps.
 
 
 ## 🎯 Objectives of the Analysis
-Identify key factors influencing driver profitability in Abuja’s e-hailing market
-Evaluate the relationship between working hours and earnings efficiency
-Assess the impact of multi-platform usage (multi-homing) on income stability
-Quantify the effect of major cost drivers such as fuel and platform commissions
-Provide actionable recommendations to improve driver earnings and sustainability
+1. Identify key factors influencing driver profitability in Abuja’s e-hailing market
+2. Evaluate the relationship between working hours and earnings efficiency
+3. Assess the impact of multi-platform usage (multi-homing) on income stability
+4. Quantify the effect of major cost drivers such as fuel and platform commissions
+5. Provide actionable recommendations to improve driver earnings and sustainability
 
 
 ## 📊 Key Insights & Findings
