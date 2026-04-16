@@ -5,7 +5,8 @@
 
 ![Main Dashboard](dashboard_overview.png)
 
-##📌 Project Overview
+
+## 📌 Project Overview
 The e-hailing ecosystem in Abuja operates within a highly competitive and cost-sensitive environment, where drivers continuously balance rising operational expenses against platform commission structures.
 This project analyzes survey responses from 72 e-hailing drivers to identify the primary drivers of profitability and operational efficiency.
 The objective is to generate data-driven insights that support drivers in optimizing earnings while providing stakeholders with a clearer understanding of the structural economic pressures within the gig economy.
@@ -14,14 +15,16 @@ The objective is to generate data-driven insights that support drivers in optimi
 Understanding the workforce behind the apps.
 ![Demographics](demographys_ananalysis.png)
 
-##🎯 Objectives of the Analysis
+
+## 🎯 Objectives of the Analysis
 Identify key factors influencing driver profitability in Abuja’s e-hailing market
 Evaluate the relationship between working hours and earnings efficiency
 Assess the impact of multi-platform usage (multi-homing) on income stability
 Quantify the effect of major cost drivers such as fuel and platform commissions
 Provide actionable recommendations to improve driver earnings and sustainability
 
-##📊 Key Insights & Findings
+
+## 📊 Key Insights & Findings
 1. Profitability Reality Gap
 While the average profit margin stands at 41.7%, actual daily net earnings average approximately ₦9.42K, highlighting a significant gap between percentage margins and absolute take-home income after operational expenses.
 2. Optimal Productivity Window
@@ -53,7 +56,8 @@ Microsoft Excel – Structured data collection and initial validation
 3. **Visualization:** Built a star-schema model in Power BI to link demographics to profitability.
 
 
-##📂 Repository Structure
+
+## 📂 Repository Structure
 
 ├── Data/                   # Cleaned datasets used for analysis
 ├── Notebooks/             # Python scripts for data cleaning and preprocessing
@@ -61,7 +65,9 @@ Microsoft Excel – Structured data collection and initial validation
 ├── Abuja_E-Hailing.pbix   # Power BI dashboard file
 └── README.md              # Project documentation
 
-###💡 Recommendations
+
+
+## 💡 Recommendations
 1. Optimize Working Hours Strategy
 Drivers should prioritize the 6–11 hour window where earnings efficiency is highest, rather than extending shifts into low-return hours that increase fatigue and reduce net gains.
 2. Adopt Multi-Platform Operations
